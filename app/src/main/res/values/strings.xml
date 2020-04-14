@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyPrrofile</string>
+    <string name="content_text">Zilza adalah seorang yang cuek dan pendiam. Hobinyaadalah menonton film, mendengarkan musik, dan nongkrong bareng teman.</string>
+    <string name="content_lahir">14 Agustus 1998</string>
+    <string name="contect_tinggi">153 cm</string>
+    <string name="content_alamat">Jl. Layur Kp. Ujung Tanjung no.19B\n RT.01 RW.01\n Kel. Kuningan Kec. Semarang Utara\n
+        Jawa Tengah, Indonesia\n Kodepos: 50176</string>
+    <string name="upgris">Mahasiswa Informatika di Universitas PGRI Semarang</string>
+    <string name="detail">Detail</string>
+    <string name="lahir">Lahir</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="alamat">Alamat</string>
+    <string name="buat">Dibuat oleh</string>
+    <string name="my_name">NAMA : NUR ZILZA BUNAYYA BAHRI\n NPM : 17670003</string>
+    <string name="npm">17670003 </string>
+    <string name="uts">UTS</string>
+    <string name="name_me">NUR ZILZA BUNAYYA BAHRI</string>
+    <string name="dummy_photos">6 photos</string>
+</resources>
